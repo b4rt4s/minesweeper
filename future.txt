@@ -1,0 +1,10 @@
+Na kiedyś do zaimplementowania:
+
+1. Przy rozpoczęciu rozgrywki (1 ruch) nie ma miny.
+2. Odkrywanie się pól pustych (bez liczb) wokół pola pustego.
+3. Czas, jaki zajęła nam rozgrywka - wypisać.
+4. Wyświetlanie ilości min (jak daje sie flagę to zmniejsza się ich ilość).
+5. Po przegranej pokazują się wszystkie miny.
+6. Podkreślienie wyglądu miny, która się odkryło (np. poprzez dodatkowe nawiasy).
+7. Możliwość zresetowania gry.
+8. Oznaczenie pola "?".
